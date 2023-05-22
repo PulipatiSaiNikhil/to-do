@@ -17,7 +17,7 @@ function addItem(e) {
 	e.preventDefault();
 
 	if (submit.value != "Submit") {
-		console.log("Hello");
+		//console.log("Hello");
 
 		editItem.target.parentNode.childNodes[0].data = document.getElementById("item").value;
 
