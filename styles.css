@@ -1,0 +1,14 @@
+.list-group{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+ul{
+    border: 1px solid red;
+}
+.item :hover{
+    background-color: black;
+}
+#todo{
+    font-family:Comic sans MS;
+    font-size:40px;
+    color:black;
+}
